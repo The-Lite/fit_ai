@@ -44,9 +44,8 @@ User provides: Age, Weight, Body type, Work type (active / office / heavy), Week
 - Smart **price matching suggestions**
 
 ## 📊 Pipeline Diagram
-    ```html
-    <img src="fitmeal_ai_flowchart.svg" alt="FitMeal AI Pipeline Flowchart" width="100%">
-    ```
+
+<img src="fitmeal_ai_flowchart.svg" alt="FitMeal AI Pipeline Flowchart" width="100%">
 ## 🛠️ Tech Stack
 - Python (Backend)
 - Claude (LLM)
