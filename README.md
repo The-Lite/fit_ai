@@ -46,6 +46,7 @@ User provides: Age, Weight, Body type, Work type (active / office / heavy), Week
 ## 📊 Pipeline Diagram
 
 <img src="fitmeal_ai_flowchart.svg" alt="FitMeal AI Pipeline Flowchart" width="100%">
+
 ## 🛠️ Tech Stack
 - Python (Backend)
 - Claude (LLM)
@@ -58,7 +59,7 @@ User provides: Age, Weight, Body type, Work type (active / office / heavy), Week
 - ✅ Flyer → Image processing
 - ✅ AI extraction from images
 - ✅ Database models + singleton DB manager
--......
+- ......
 - 🔄 Price comparison system
 - 🔄 RAG integration
 - 🔄 Fitness plan generation
