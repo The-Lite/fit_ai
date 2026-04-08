@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "item_name": "Poitrines de poulet",
+      "price": "$4.99/LB",
+      "category": "protein"
+    },
+    {
+      "item_name": "Filet de porc",
+      "price": "$3.99/LB",
+      "category": "protein"
+    },
+    {
+      "item_name": "Bacon Lafleur",
+      "price": "$5.99",
+      "category": "protein"
+    },
+    {
+      "item_name": "Poulet hach\u00e9",
+      "price": "$3.50",
+      "category": "protein"
+    },
+    {
+      "item_name": "Pineapple",
+      "price": "$1.77/LB",
+      "category": "fruits"
+    },
+    {
+      "item_name": "Red grapes",
+      "price": "$1.77/LB",
+      "category": "fruits"
+    },
+    {
+      "item_name": "Green grapes",
+      "price": "$1.77/LB",
+      "category": "fruits"
+    },
+    {
+      "item_name": "Cucumbers",
+      "price": "$1",
+      "category": "vegetables"
+    },
+    {
+      "item_name": "Asparagus",
+      "price": "$2.44",
+      "category": "vegetables"
+    },
+    {
+      "item_name": "Brussels sprouts",
+      "price": "$2.44",
+      "category": "vegetables"
+    },
+    {
+      "item_name": "Crevettes cuites",
+      "price": "$5.88",
+      "category": "seafood"
+    },
+    {
+      "item_name": "Papier hygi\u00e9nique Royale",
+      "price": "$6.99",
+      "category": "vegetables"
+    }
+  ]
+}
