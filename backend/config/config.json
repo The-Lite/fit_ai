@@ -1,0 +1,7 @@
+{
+    "database": {
+        "url": "postgresql://lite:lite@localhost:5432/fitnessai"
+    }
+
+
+}
