@@ -1,7 +1,30 @@
 {
     "database": {
         "url": "postgresql://lite:lite@localhost:5432/fitnessai"
-    }
+    },
 
+    "flayers": {
+        "Maxi":
+        {
+            "Pages_ignored": [1,2,3,4]
+        },
+         "IGA":
+        {
+            "Pages_ignored": [1,2,3,4]
+        },
+         "SuperC":
+        {
+            "Pages_ignored": [1,2,3,4]
+        },
+         "Metro":
+        {
+            "Pages_ignored": [1,2,3,4]
+        },
+         "Provigo":
+        {
+            "Pages_ignored": [1,2,3,4]
+        }
+       
+    }
 
 }
