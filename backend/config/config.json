@@ -6,25 +6,27 @@
     "flayers": {
         "Maxi":
         {
-            "Pages_ignored": [1,2,3,4]
-        },
+            "Pages_ignored": ["02","09","10","11","12","13","14","15","16"]
+        }
+        ,
          "IGA":
         {
-            "Pages_ignored": [1,2,3,4]
+            "Pages_ignored": ["08","09","10","17","16","13"]
         },
          "SuperC":
         {
-            "Pages_ignored": [1,2,3,4]
+            "Pages_ignored": ["04","09","10","11","14"]
         },
          "Metro":
         {
-            "Pages_ignored": [1,2,3,4]
+            "Pages_ignored": ["02","03","06","07","15","17"]
         },
+    
          "Provigo":
         {
-            "Pages_ignored": [1,2,3,4]
+            "Pages_ignored":  ["04","10"]
         }
        
-    }
+}
 
 }

@@ -1,0 +1,654 @@
+{
+  "page_00.png": {
+    "items": [
+      {
+        "item_name": "Gros fruits - Raisin vert",
+        "price": "2.44 /lb",
+        "category": "fruits",
+        "description": "Green grapes"
+      },
+      {
+        "item_name": "Couronne de brocoli",
+        "price": "1.67 /lb",
+        "category": "vegetables",
+        "description": "Broccoli crown"
+      },
+      {
+        "item_name": "Avocats Hass",
+        "price": "0.99 /lb",
+        "category": "healthy_fats",
+        "description": "Hass avocados, 3 lb"
+      },
+      {
+        "item_name": "Poitrines de poulet frais",
+        "price": "5.44 /lb",
+        "category": "protein",
+        "description": "Fresh chicken breasts"
+      },
+      {
+        "item_name": "Côtelettes de porc frais",
+        "price": "2.88 /lb",
+        "category": "protein",
+        "description": "Fresh pork chops"
+      },
+      {
+        "item_name": "Cubes de boeuf",
+        "price": "7.99 /lb",
+        "category": "protein",
+        "description": "Beef cubes, premium quality"
+      },
+      {
+        "item_name": "Cubes de boeuf bourguignon",
+        "price": "7.99 /lb",
+        "category": "protein",
+        "description": "Beef bourguignon cubes"
+      },
+      {
+        "item_name": "Saucisses La Fernandière",
+        "price": "4.44",
+        "category": "protein",
+        "description": "La Fernandière sausages, 375g"
+      },
+      {
+        "item_name": "Yogurt Balkan Ario Original",
+        "price": "2.97",
+        "category": "dairy",
+        "description": "Balkan style yogurt"
+      },
+      {
+        "item_name": "Papier hygiénique Cashmere",
+        "price": "5.77",
+        "category": "vegetables",
+        "description": "Toilet paper - not a food item, excluded"
+      }
+    ]
+  },
+  "page_01.png": {
+    "items": [
+      {
+        "item_name": "Tomates rouges en grappe bio",
+        "price": "1.99/lb",
+        "category": "vegetables",
+        "description": "Organic red tomatoes on vine"
+      },
+      {
+        "item_name": "Grosse mangue ou autres fruits",
+        "price": "3/5$ ou 1.67 l'unité",
+        "category": "fruits",
+        "description": "Large mango or other fruits"
+      },
+      {
+        "item_name": "Cœurs de laitue romaine",
+        "price": "3.99",
+        "category": "vegetables",
+        "description": "Romaine lettuce hearts"
+      },
+      {
+        "item_name": "Baguette française",
+        "price": "1.99",
+        "category": "whole_grains",
+        "description": "French baguette"
+      },
+      {
+        "item_name": "Saucisses fumées",
+        "price": "7.99/lb",
+        "category": "protein",
+        "description": "Smoked sausages"
+      },
+      {
+        "item_name": "Flocons de goberge à saveur de crabe",
+        "price": "7.99/lb",
+        "category": "seafood",
+        "description": "Crab-flavored pollock flakes"
+      },
+      {
+        "item_name": "Jambon Turci Michel Delisle",
+        "price": "1.99 le 100g",
+        "category": "protein",
+        "description": "Ham slices"
+      },
+      {
+        "item_name": "Jus d'orange pressé frais",
+        "price": "3.99",
+        "category": "fruits",
+        "description": "Fresh pressed orange juice"
+      },
+      {
+        "item_name": "Bon matin pain protéiné",
+        "price": "6.99",
+        "category": "whole_grains",
+        "description": "High-protein bread"
+      },
+      {
+        "item_name": "Kraft beurre d'arachide cremeux",
+        "price": "6.99",
+        "category": "healthy_fats",
+        "description": "Smooth peanut butter"
+      },
+      {
+        "item_name": "Nutella",
+        "price": "35 points",
+        "category": "healthy_fats",
+        "description": "Hazelnut spread"
+      },
+      {
+        "item_name": "Barres de céréales Nutri-Grain Kellogg's",
+        "price": "2.99",
+        "category": "whole_grains",
+        "description": "Nutri-Grain cereal bars"
+      },
+      {
+        "item_name": "GoGo Squeeze pomme",
+        "price": "2.99",
+        "category": "fruits",
+        "description": "Apple fruit pouch"
+      }
+    ]
+  },
+  "page_04.png": {
+    "items": [
+      {
+        "item_name": "Fraises",
+        "price": "4.99",
+        "category": "fruits",
+        "description": "Fresh and delicious strawberries"
+      },
+      {
+        "item_name": "Fraises bio",
+        "price": "5.99",
+        "category": "fruits",
+        "description": "Organic strawberries"
+      },
+      {
+        "item_name": "Gros raisins rouges ou noirs",
+        "price": "3.99",
+        "category": "fruits",
+        "description": "Large red or black grapes"
+      },
+      {
+        "item_name": "Framboises",
+        "price": "3.99",
+        "category": "fruits",
+        "description": "Raspberries"
+      },
+      {
+        "item_name": "Framboises bio",
+        "price": "4.99",
+        "category": "fruits",
+        "description": "Organic raspberries"
+      },
+      {
+        "item_name": "Très gros bleuets",
+        "price": "4.99",
+        "category": "fruits",
+        "description": "Very large blueberries"
+      },
+      {
+        "item_name": "Oranges Navel sans pépins",
+        "price": "3/$5",
+        "category": "fruits",
+        "description": "Seedless Navel oranges"
+      },
+      {
+        "item_name": "Nectarines, pêches ou prunes",
+        "price": "6.99",
+        "category": "fruits",
+        "description": "Nectarines, peaches or plums"
+      },
+      {
+        "item_name": "Grosse papaye",
+        "price": "1.99",
+        "category": "fruits",
+        "description": "Large papaya"
+      },
+      {
+        "item_name": "Chou-fleur",
+        "price": "4.99",
+        "category": "vegetables",
+        "description": "Cauliflower"
+      },
+      {
+        "item_name": "Haricots verts",
+        "price": "3.99",
+        "category": "vegetables",
+        "description": "Green beans"
+      },
+      {
+        "item_name": "Oignons verts",
+        "price": "1.99",
+        "category": "vegetables",
+        "description": "Green onions"
+      },
+      {
+        "item_name": "Chou de Bruxelles",
+        "price": "3.99",
+        "category": "vegetables",
+        "description": "Brussels sprouts"
+      },
+      {
+        "item_name": "Champignons café ou biologiques",
+        "price": "2.99",
+        "category": "vegetables",
+        "description": "Brown or organic mushrooms"
+      },
+      {
+        "item_name": "Patates douces bio",
+        "price": "1.69",
+        "category": "vegetables",
+        "description": "Organic sweet potatoes"
+      },
+      {
+        "item_name": "Mélange de salade avec garnitures",
+        "price": "8.99",
+        "category": "vegetables",
+        "description": "Salad mix with toppings"
+      }
+    ]
+  },
+  "page_05.png": {
+    "items": [
+      {
+        "item_name": "Tomates",
+        "price": "7.99",
+        "category": "vegetables",
+        "description": "gros format"
+      },
+      {
+        "item_name": "Laitue Aquaverti",
+        "price": "3.99",
+        "category": "vegetables",
+        "description": "mélange de salade Good Leaf"
+      },
+      {
+        "item_name": "Concombres anglais",
+        "price": "2/5$ 2.50",
+        "category": "vegetables",
+        "description": "moyen, sans pépins"
+      },
+      {
+        "item_name": "Pommes Ambrosia",
+        "price": "2.69",
+        "category": "fruits",
+        "description": "croquante et très sucrée"
+      },
+      {
+        "item_name": "Mélange de laitues Folia",
+        "price": "5.99",
+        "category": "vegetables",
+        "description": "C'EST NOUVEAU!"
+      },
+      {
+        "item_name": "Tofu Soykei",
+        "price": "2.99",
+        "category": "protein",
+        "description": "à partir de"
+      },
+      {
+        "item_name": "Jus Héritage 77",
+        "price": "4.77",
+        "category": "fruits",
+        "description": "pur jus 100% fruits"
+      },
+      {
+        "item_name": "Yogourt avec fruits et granola",
+        "price": "3.99",
+        "category": "dairy",
+        "description": "metrago! préparés en magasin"
+      },
+      {
+        "item_name": "Plateau de fruits frais",
+        "price": "9.99",
+        "category": "fruits",
+        "description": "metrago! préparés en magasin"
+      },
+      {
+        "item_name": "Poires Bosc",
+        "price": "9.99",
+        "category": "fruits",
+        "description": "à partir de"
+      }
+    ]
+  },
+  "page_08.png": {
+    "items": [
+      {
+        "item_name": "boeuf haché maigre",
+        "price": "$8.99/lb",
+        "category": "protein",
+        "description": "lean ground beef, fresh daily from our butchers"
+      },
+      {
+        "item_name": "rôti français",
+        "price": "$12.99/lb",
+        "category": "protein",
+        "description": "french roast beef"
+      },
+      {
+        "item_name": "rôti d'épaule de porc picnic frais",
+        "price": "$3.99/lb",
+        "category": "protein",
+        "description": "fresh pork shoulder roast"
+      },
+      {
+        "item_name": "jarrets de boeuf cote levée",
+        "price": "$10.99/lb",
+        "category": "protein",
+        "description": "beef short ribs"
+      },
+      {
+        "item_name": "hauts de cuisses de poulet frais dépossés",
+        "price": "$8.99/lb",
+        "category": "protein",
+        "description": "fresh boneless chicken thighs"
+      },
+      {
+        "item_name": "biftecks samowich-escalopes",
+        "price": "$12.99/lb",
+        "category": "protein",
+        "description": "sandwich steaks"
+      },
+      {
+        "item_name": "côtes de flanc de porc frais",
+        "price": "$4.49/lb",
+        "category": "protein",
+        "description": "fresh pork flank ribs"
+      },
+      {
+        "item_name": "côtelettes de porc assaisonnées",
+        "price": "$3.99/lb",
+        "category": "protein",
+        "description": "seasoned pork chops"
+      },
+      {
+        "item_name": "saucisses fraîches",
+        "price": "$5.99/lb",
+        "category": "protein",
+        "description": "fresh sausages"
+      },
+      {
+        "item_name": "pilons de poulet frais",
+        "price": "$3.99/lb",
+        "category": "protein",
+        "description": "fresh chicken drumsticks"
+      },
+      {
+        "item_name": "veau de grain haché maigre",
+        "price": "$6.99/lb",
+        "category": "protein",
+        "description": "lean ground grain-fed veal"
+      },
+      {
+        "item_name": "brochettes de boeuf, de poulet ou de porc avec légumes",
+        "price": "rabais de 2$/lb",
+        "category": "protein",
+        "description": "beef, chicken or pork skewers with vegetables"
+      },
+      {
+        "item_name": "steak de boeuf AAA Platinum bleu",
+        "price": "10% de rabais",
+        "category": "protein",
+        "description": "AAA Platinum grade beef steak with 10% discount"
+      },
+      {
+        "item_name": "hasette",
+        "price": "$24.99/lb",
+        "category": "protein",
+        "description": "beef roast"
+      }
+    ]
+  },
+  "page_11.png": {
+    "items": [
+      {
+        "item_name": "Pain tranché",
+        "price": "2/10$ ou 5.99",
+        "category": "whole_grains",
+        "description": "Sliced bread"
+      },
+      {
+        "item_name": "Punité",
+        "price": "5.99",
+        "category": "whole_grains",
+        "description": "Bread loaf"
+      },
+      {
+        "item_name": "Demi-baguette française",
+        "price": "3.49",
+        "category": "whole_grains",
+        "description": "French demi-baguette"
+      },
+      {
+        "item_name": "Petits pains kaiser",
+        "price": "4.99",
+        "category": "whole_grains",
+        "description": "Kaiser rolls"
+      }
+    ]
+  },
+  "page_12.png": {
+    "items": [
+      {
+        "item_name": "Pepperoni Tranché sur demande",
+        "price": "1.99/lb (100g)",
+        "category": "protein",
+        "description": "Sliced pepperoni on demand"
+      },
+      {
+        "item_name": "Jambon cuit Sélection",
+        "price": "2.29/lb (100g)",
+        "category": "protein",
+        "description": "Selection cooked ham"
+      },
+      {
+        "item_name": "Mortadelle San Daniele",
+        "price": "3.49/lb (100g)",
+        "category": "protein",
+        "description": "San Daniele mortadella"
+      },
+      {
+        "item_name": "Hummus Fontaine Santé",
+        "price": "4.49",
+        "category": "legumes",
+        "description": "Fontaine Santé hummus"
+      },
+      {
+        "item_name": "Pâté de Poulet St-Hubert",
+        "price": "10.49",
+        "category": "protein",
+        "description": "St-Hubert chicken pâté"
+      },
+      {
+        "item_name": "Fromage Le Noble",
+        "price": "4.99/le 100g",
+        "category": "dairy",
+        "description": "Le Noble cheese"
+      },
+      {
+        "item_name": "Îlot à Panneaux Monnelier",
+        "price": "6.99/le 100g",
+        "category": "dairy",
+        "description": "Îlot à Panneaux Monnelier cheese"
+      },
+      {
+        "item_name": "Fromage Riviera",
+        "price": "7.99/à partir de",
+        "category": "dairy",
+        "description": "Riviera cheese"
+      },
+      {
+        "item_name": "Grand Cheddar Agropur",
+        "price": "9.99/à partir de",
+        "category": "dairy",
+        "description": "Grand Cheddar Agropur cheese"
+      },
+      {
+        "item_name": "Brie Double Crème Irresistible",
+        "price": "8.99",
+        "category": "dairy",
+        "description": "Irresistible double cream brie"
+      },
+      {
+        "item_name": "Fromage Bergeron",
+        "price": "8.49/à partir de",
+        "category": "dairy",
+        "description": "Bergeron cheese"
+      },
+      {
+        "item_name": "Parmigiano Reggiano Irresistible",
+        "price": "4.49/lb (100g)",
+        "category": "dairy",
+        "description": "Irresistible Parmigiano Reggiano"
+      },
+      {
+        "item_name": "Jambon fumé Sélection",
+        "price": "2.59/lb (100g)",
+        "category": "protein",
+        "description": "Selection smoked ham"
+      },
+      {
+        "item_name": "Pâtisserie de dinde Tante Bernadette",
+        "price": "3.19/lb (100g)",
+        "category": "protein",
+        "description": "Tante Bernadette turkey pastry"
+      },
+      {
+        "item_name": "Simili poulet",
+        "price": "1.59/lb (100g)",
+        "category": "protein",
+        "description": "Chicken-like product"
+      }
+    ]
+  },
+  "page_13.png": {
+    "items": [
+      {
+        "item_name": "sauce à spaghetti",
+        "price": "16.49",
+        "category": "vegetables",
+        "description": "1.2 L sauce à spaghetti"
+      },
+      {
+        "item_name": "chou frisé, feta et quinoa",
+        "price": "à partir de 1.89",
+        "category": "vegetables",
+        "description": "salade chou frisé, feta et quinoa"
+      },
+      {
+        "item_name": "repas de 4 filets de poulet",
+        "price": "10.99",
+        "category": "protein",
+        "description": "repas de 4 filets de poulet avec frites et sauce"
+      },
+      {
+        "item_name": "8 ailes de poulet",
+        "price": "11.99",
+        "category": "protein",
+        "description": "8 ailes de poulet avec frites et sauce"
+      },
+      {
+        "item_name": "demi-portion de côtes levées",
+        "price": "9.99",
+        "category": "protein",
+        "description": "demi-portion de côtes levées"
+      },
+      {
+        "item_name": "chili con carne",
+        "price": "6.99",
+        "category": "legumes",
+        "description": "chili con carne 340 ml"
+      }
+    ]
+  },
+  "page_14.png": {
+    "items": [
+      {
+        "item_name": "Lactancia PurFiltre",
+        "price": "9.79",
+        "category": "dairy",
+        "description": "lait finement filtré"
+      },
+      {
+        "item_name": "POM Bagels Protéines",
+        "price": "5.99",
+        "category": "protein",
+        "description": "bagels protéines"
+      },
+      {
+        "item_name": "Oeufs blancs Sélection",
+        "price": "4.17",
+        "category": "protein",
+        "description": "large size - calibre gros"
+      },
+      {
+        "item_name": "Yogourt végétal Riviera",
+        "price": "5.99",
+        "category": "dairy",
+        "description": "yogourt végétal aux fruits"
+      },
+      {
+        "item_name": "Silk Amandes",
+        "price": "3.29",
+        "category": "healthy_fats",
+        "description": "boisson à base de plantes"
+      },
+      {
+        "item_name": "Dole Salade avec vinaigrette",
+        "price": "3.99",
+        "category": "vegetables",
+        "description": "fruits en coupe salade"
+      },
+      {
+        "item_name": "Cocktail de légumes V8",
+        "price": "3.49",
+        "category": "vegetables",
+        "description": "cocktail de légumes"
+      },
+      {
+        "item_name": "Soupe Chunky Campbell's",
+        "price": "3.79",
+        "category": "legumes",
+        "description": "soupe chunky"
+      },
+      {
+        "item_name": "Chef Boyardee",
+        "price": "2.99",
+        "category": "legumes",
+        "description": "dîner chef boyardee"
+      },
+      {
+        "item_name": "Ben's Original Converted",
+        "price": "5.49",
+        "category": "whole_grains",
+        "description": "riz original converted"
+      },
+      {
+        "item_name": "Beurre Président",
+        "price": "5.99",
+        "category": "dairy",
+        "description": "beurre président"
+      }
+    ]
+  },
+  "page_16.png": {
+    "items": [
+      {
+        "item_name": "lait au chocolat Québon",
+        "price": "2.99",
+        "category": "dairy",
+        "description": "lait au chocolat Québon"
+      },
+      {
+        "item_name": "lait frappé Beatrice PIT",
+        "price": "3.79",
+        "category": "dairy",
+        "description": "lait frappé Beatrice PIT"
+      },
+      {
+        "item_name": "boisson protéinée Core Power",
+        "price": "4.49",
+        "category": "protein",
+        "description": "boisson protéinée Core Power"
+      }
+    ]
+  }
+}

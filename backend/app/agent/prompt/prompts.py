@@ -2,6 +2,7 @@
 PROMPOT_Flayer="""You are a data extraction system.
 
 Extract only healthy food items from this grocery flyer and return the result in JSON.
+The description should be extracted from the text in the flyer, and the category should be determined based on the item name and description.
 
 Allowed categories:
 - protein
@@ -28,6 +29,7 @@ For each accepted item, return:
 - item_name
 - price
 - category
+-description 
 
 Important rules:
 - Output must be ONLY raw JSON
@@ -46,6 +48,7 @@ Return exactly this structure:
       "item_name": "string",
       "price": "string",
       "category": "string"
+      "description": "string"
     }
   ]
 }If multiple products appear in one block, extract them separately only when the name and price match clearly."""

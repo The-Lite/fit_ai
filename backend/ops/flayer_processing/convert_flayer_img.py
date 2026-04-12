@@ -15,4 +15,3 @@ def convert_flayer_img_automation():
         cprint(f"converting {pdf_path} to images in {output_dir}", "yellow")
         pdf_converter_img(str(pdf_path), str(output_dir))
         cprint(f"finished converting {pdf_path}", "green")
-convert_flayer_img_automation()

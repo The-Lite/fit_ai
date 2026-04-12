@@ -1,0 +1,458 @@
+{
+  "page_00.png": {
+    "items": [
+      {
+        "item_name": "Poitrines de poulet",
+        "price": "$4.99/LB",
+        "category": "protein",
+        "description": "Poitrines de poulet désossées, sans peau"
+      },
+      {
+        "item_name": "Filet de porc",
+        "price": "$3.99/LB",
+        "category": "protein",
+        "description": "Filet de porc, désossé, sans-vide"
+      },
+      {
+        "item_name": "Bacon Lafleur",
+        "price": "$5.99",
+        "category": "protein",
+        "description": "Bacon Lafleur, 500 g"
+      },
+      {
+        "item_name": "Poulet haché",
+        "price": "$3.50",
+        "category": "protein",
+        "description": "Poulet haché, 454 g"
+      },
+      {
+        "item_name": "Pineapple",
+        "price": "$1.99",
+        "category": "fruits",
+        "description": "Fresh pineapple"
+      },
+      {
+        "item_name": "Red Grapes",
+        "price": "$1.77/LB",
+        "category": "fruits",
+        "description": "Red grapes"
+      },
+      {
+        "item_name": "Green Grapes",
+        "price": "$1.77/LB",
+        "category": "fruits",
+        "description": "Green grapes"
+      },
+      {
+        "item_name": "Asparagus",
+        "price": "$2.44",
+        "category": "vegetables",
+        "description": "Asparagus, 325 g"
+      },
+      {
+        "item_name": "Cucumbers",
+        "price": "$1",
+        "category": "vegetables",
+        "description": "Cucumbers"
+      },
+      {
+        "item_name": "Brussels Sprouts",
+        "price": "$2.44",
+        "category": "vegetables",
+        "description": "Chou de Bruxelles, 454 g"
+      },
+      {
+        "item_name": "Canola or Vegetable Oil",
+        "price": "$6.99",
+        "category": "healthy_fats",
+        "description": "Huile de canola ou végétale, 3 L"
+      }
+    ]
+  },
+  "page_04.png": {
+    "items": [
+      {
+        "item_name": "Porc haché mi-maigre",
+        "price": "4.44/lb",
+        "category": "protein",
+        "description": "Ground pork, medium lean"
+      },
+      {
+        "item_name": "Boeuf à ragoût",
+        "price": "11.88/lb",
+        "category": "protein",
+        "description": "Beef stew meat"
+      },
+      {
+        "item_name": "Boeuf haché maigre",
+        "price": "8.88",
+        "category": "protein",
+        "description": "Lean ground beef, Fontaine family"
+      },
+      {
+        "item_name": "Filet de truite steelhead",
+        "price": "9.88/lb",
+        "category": "seafood",
+        "description": "Rainbow trout fillet"
+      },
+      {
+        "item_name": "Filets de poitrine de poulet",
+        "price": "10$",
+        "category": "protein",
+        "description": "Chicken breast fillets, Prime Maple Leaf"
+      },
+      {
+        "item_name": "Crevettes tempura",
+        "price": "11.88",
+        "category": "seafood",
+        "description": "Tempura shrimp"
+      },
+      {
+        "item_name": "Pompano",
+        "price": "9.44",
+        "category": "seafood",
+        "description": "Pompano fish"
+      },
+      {
+        "item_name": "Tilapia",
+        "price": "9.44",
+        "category": "seafood",
+        "description": "Tilapia fish"
+      },
+      {
+        "item_name": "Saucisses à cocktail",
+        "price": "3.50",
+        "category": "protein",
+        "description": "Cocktail sausages, Hygrade"
+      },
+      {
+        "item_name": "Bâtonnets de fromage",
+        "price": "8.99",
+        "category": "dairy",
+        "description": "Cheese sticks"
+      },
+      {
+        "item_name": "Saumon fumé",
+        "price": "9$",
+        "category": "seafood",
+        "description": "Smoked salmon"
+      },
+      {
+        "item_name": "Mini quiche",
+        "price": "6.99",
+        "category": "protein",
+        "description": "Mini quiche, assorted varieties"
+      },
+      {
+        "item_name": "Tarte aux épinards",
+        "price": "10.99",
+        "category": "vegetables",
+        "description": "Spinach pie"
+      },
+      {
+        "item_name": "Piments jalapeños farcis",
+        "price": "7.99",
+        "category": "vegetables",
+        "description": "Stuffed jalapeño peppers"
+      },
+      {
+        "item_name": "Trempette de saumon fumé",
+        "price": "8$",
+        "category": "seafood",
+        "description": "Smoked salmon dip"
+      }
+    ]
+  },
+  "page_05.png": {
+    "items": [
+      {
+        "item_name": "Filet de truite arc-en-ciel",
+        "price": "11$",
+        "category": "seafood",
+        "description": "Rainbow trout fillet, previously frozen"
+      },
+      {
+        "item_name": "Filet de saumon coho",
+        "price": "16$",
+        "category": "seafood",
+        "description": "Coho salmon fillet, previously frozen"
+      },
+      {
+        "item_name": "Filet de tilapia frais",
+        "price": "10$",
+        "category": "seafood",
+        "description": "Fresh tilapia fillet"
+      },
+      {
+        "item_name": "Filet de saumon de l'Atlantique",
+        "price": "16$",
+        "category": "seafood",
+        "description": "Atlantic salmon fillet, previously frozen"
+      },
+      {
+        "item_name": "Darne de saumon de l'Atlantique",
+        "price": "11$",
+        "category": "seafood",
+        "description": "Atlantic salmon steak, previously frozen"
+      },
+      {
+        "item_name": "Filet de pangasius",
+        "price": "5$",
+        "category": "seafood",
+        "description": "Pangasius fillet, previously frozen"
+      },
+      {
+        "item_name": "Portions de saumon de l'Atlantique",
+        "price": "10$",
+        "category": "seafood",
+        "description": "Atlantic salmon portions, previously frozen"
+      },
+      {
+        "item_name": "Filets de bar commun",
+        "price": "9$",
+        "category": "seafood",
+        "description": "European sea bass fillet, previously frozen"
+      },
+      {
+        "item_name": "Couronne de crevettes SeaQuest",
+        "price": "6$ + tx",
+        "category": "seafood",
+        "description": "Shrimp ring, frozen"
+      },
+      {
+        "item_name": "Darne de thon albacore",
+        "price": "7$",
+        "category": "seafood",
+        "description": "Albacore tuna steak"
+      },
+      {
+        "item_name": "Calamars croustillants",
+        "price": "5$",
+        "category": "seafood",
+        "description": "Crispy calamari, frozen"
+      },
+      {
+        "item_name": "Moutarde",
+        "price": "2.29",
+        "category": "healthy_fats",
+        "description": "Mustard, selected varieties"
+      },
+      {
+        "item_name": "Moutarde de Dijon",
+        "price": "2.29",
+        "category": "healthy_fats",
+        "description": "Dijon mustard"
+      }
+    ]
+  },
+  "page_06.png": {
+    "items": [
+      {
+        "item_name": "Rondele cheese spread",
+        "price": "3.44$",
+        "category": "dairy",
+        "description": "tartinade de style fromage Rondele President"
+      },
+      {
+        "item_name": "Fresh bolognese sauce",
+        "price": "16.99$",
+        "category": "vegetables",
+        "description": "sauce bolognaise fraiche faite en magasin fresh store made"
+      },
+      {
+        "item_name": "Camembert cheese",
+        "price": "8.77$",
+        "category": "dairy",
+        "description": "serie de camembert Affinia de Portneuf"
+      },
+      {
+        "item_name": "Bocconcini cheese",
+        "price": "6$",
+        "category": "dairy",
+        "description": "bocconcini 200g ricotta 454 g ou brie 175 g"
+      },
+      {
+        "item_name": "Smoked meat",
+        "price": "14.55$",
+        "category": "protein",
+        "description": "Viande fumee Montreal Larouche smoked meat selected varieties"
+      },
+      {
+        "item_name": "Charcuteries",
+        "price": "10.55$",
+        "category": "protein",
+        "description": "charcuteries varietes fines selected varieties"
+      },
+      {
+        "item_name": "Homage de chevre",
+        "price": "4.77$",
+        "category": "dairy",
+        "description": "homage de chevre style selected varieties"
+      },
+      {
+        "item_name": "Tranches de fromage",
+        "price": "5.88$",
+        "category": "dairy",
+        "description": "tranches de fromage 150-170 g ou beurre selected varieties"
+      },
+      {
+        "item_name": "D'Italiano bread",
+        "price": "3.55$",
+        "category": "whole_grains",
+        "description": "pain d'Italiano selected varieties"
+      },
+      {
+        "item_name": "Muffins",
+        "price": "2$",
+        "category": "whole_grains",
+        "description": "muffins simples ou beignes sans levain English muffins or tings"
+      }
+    ]
+  },
+  "page_07.png": {
+    "items": [
+      {
+        "item_name": "Yogurt Azoé",
+        "price": "$3.33",
+        "category": "dairy",
+        "description": "yogurt Azoé, 660 g ou classique Libérté"
+      },
+      {
+        "item_name": "Lait Évaporé Carnation",
+        "price": "$1.77",
+        "category": "dairy",
+        "description": "lait évaporé Carnation 300 mL ou certaines variétés"
+      },
+      {
+        "item_name": "Lait Crémeux Amotion",
+        "price": "$6$",
+        "category": "dairy",
+        "description": "lait crémeux Amotion 1L ou 2L"
+      },
+      {
+        "item_name": "Minute Rice",
+        "price": "$6$",
+        "category": "whole_grains",
+        "description": "riz Minute Rice blanc ou complet, 12/1 kg"
+      },
+      {
+        "item_name": "Lait Pur Filtre Lactantia",
+        "price": "$5.11",
+        "category": "dairy",
+        "description": "lait pur filtre Lactantia certaines variétés"
+      },
+      {
+        "item_name": "Huile d'olive Bertoli",
+        "price": "$12.99",
+        "category": "healthy_fats",
+        "description": "huile d'olive Bertoli certaines variétés, 750 mL"
+      },
+      {
+        "item_name": "Eau Pétillante",
+        "price": "$6.88",
+        "category": "dairy",
+        "description": "eau pétillante La Maison Perrier certaines variétés, 1L ou 1,5L"
+      }
+    ]
+  },
+  "page_08.png": {
+    "items": [
+      {
+        "item_name": "Knorr Rice Mix",
+        "price": "1.75$",
+        "category": "whole_grains",
+        "description": "Rice accompaniment, selected varieties"
+      },
+      {
+        "item_name": "Maxwell House Instant Coffee",
+        "price": "5$",
+        "category": "dairy",
+        "description": "Instant coffee, selected varieties"
+      },
+      {
+        "item_name": "Crème Glacée Ben & Jerry's",
+        "price": "5$ + tx",
+        "category": "dairy",
+        "description": "Ice cream, selected varieties"
+      },
+      {
+        "item_name": "Soupe Chunky Campbell's",
+        "price": "2$",
+        "category": "vegetables",
+        "description": "Soup, selected varieties"
+      },
+      {
+        "item_name": "Crème Glacée Chapmans",
+        "price": "5.50$",
+        "category": "dairy",
+        "description": "Ice cream, selected varieties"
+      },
+      {
+        "item_name": "Sauce Sriracha",
+        "price": "6$",
+        "category": "healthy_fats",
+        "description": "Sriracha sauce, 714 mL"
+      },
+      {
+        "item_name": "Confiture",
+        "price": "5$",
+        "category": "fruits",
+        "description": "Jam, selected varieties, 250 mL"
+      },
+      {
+        "item_name": "Légumes PC Biologique",
+        "price": "4$ + tx",
+        "category": "vegetables",
+        "description": "Organic vegetables, selected varieties"
+      },
+      {
+        "item_name": "Pain Carbonaut",
+        "price": "7$",
+        "category": "whole_grains",
+        "description": "Bread, selected varieties"
+      },
+      {
+        "item_name": "Céréales à Café à l'Avoine",
+        "price": "6.50$",
+        "category": "whole_grains",
+        "description": "Cereal with oats, selected varieties, 840 g"
+      },
+      {
+        "item_name": "Fiesta Marbles Black Diamond",
+        "price": "11$",
+        "category": "whole_grains",
+        "description": "Cereal, selected varieties"
+      },
+      {
+        "item_name": "Détergent à lessive Persil",
+        "price": "13$ + tx",
+        "category": "vegetables",
+        "description": "Laundry detergent, selected varieties"
+      },
+      {
+        "item_name": "Tartinade Traditionnelle Lactantia",
+        "price": "1.88",
+        "category": "dairy",
+        "description": "Traditional spread"
+      },
+      {
+        "item_name": "Vin Sô Merlot ou Muscat",
+        "price": "12$ + tx",
+        "category": "vegetables",
+        "description": "Wine, selected varieties, 750 mL"
+      },
+      {
+        "item_name": "GoGo SqueeZ Pomme",
+        "price": "3$",
+        "category": "fruits",
+        "description": "Apple fruit pouch, selected varieties"
+      },
+      {
+        "item_name": "Croustilles Hardbite",
+        "price": "3$ + tx",
+        "category": "vegetables",
+        "description": "Chips, selected varieties"
+      }
+    ]
+  }
+}

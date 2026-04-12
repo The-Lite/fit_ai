@@ -14,6 +14,6 @@ def pdf_converter_img(pdf_path:str, output_dir:str):
         pix.save(f"{output_dir}/page_{i:02d}.png")
     doc.close()
 if __name__ == "__main__":
-    pdf_path = "/home/lite/Desktop/Projects/FitnessAI/fit_ai/backend/data/data_test/flayers/maxi/flayer.pdf"
-    output_dir = "/home/lite/Desktop/Projects/FitnessAI/fit_ai/backend/data/data_test/flayers/maxi/img"
+    pdf_path = "/home/lite/Desktop/Projects/FitnessAI/fit_ai/backend/data/data_test/flayers/provigo/PDF.js viewer.pdf"
+    output_dir = "/home/lite/Desktop/Projects/FitnessAI/fit_ai/backend/data/data_test/flayers/provigo/img"
     pdf_converter_img(pdf_path, output_dir)

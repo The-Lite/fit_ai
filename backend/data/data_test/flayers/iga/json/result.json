@@ -1,0 +1,538 @@
+{
+  "page_01.png": {
+    "items": [
+      {
+        "item_name": "Leeks",
+        "price": "$4/500g $1.25/100g",
+        "category": "vegetables",
+        "description": "Fresh leeks"
+      },
+      {
+        "item_name": "Strawberries",
+        "price": "$3.99",
+        "category": "fruits",
+        "description": "Fresh strawberries"
+      },
+      {
+        "item_name": "McCain",
+        "price": "$7.99",
+        "category": "vegetables",
+        "description": "McCain frozen vegetables"
+      },
+      {
+        "item_name": "Maxwell House",
+        "price": "$16.97",
+        "category": "healthy_fats",
+        "description": "Maxwell House coffee"
+      },
+      {
+        "item_name": "Cracker Barrel Mozza",
+        "price": "$6.97",
+        "category": "dairy",
+        "description": "Cracker Barrel Mozza cheese"
+      },
+      {
+        "item_name": "Corn Flakes",
+        "price": "$3.88",
+        "category": "whole_grains",
+        "description": "Corn Flakes cereal"
+      },
+      {
+        "item_name": "Loblaws Brand",
+        "price": "$4.49",
+        "category": "legumes",
+        "description": "Canned beans/legumes"
+      },
+      {
+        "item_name": "Tide Laundry Detergent",
+        "price": "$15.99",
+        "category": "whole_grains",
+        "description": "Tide laundry detergent with 500 pm offer"
+      },
+      {
+        "item_name": "Vegetables Mix",
+        "price": "$0.99",
+        "category": "vegetables",
+        "description": "Mixed vegetables"
+      }
+    ]
+  },
+  "page_02.png": {
+    "items": [
+      {
+        "item_name": "Laitue",
+        "price": "$3.99",
+        "category": "vegetables",
+        "description": "Salade verte fraîche"
+      },
+      {
+        "item_name": "Mélange de laitues",
+        "price": "$4.99",
+        "category": "vegetables",
+        "description": "Mélange de salades"
+      },
+      {
+        "item_name": "Tomates cerises",
+        "price": "$2.99",
+        "category": "vegetables",
+        "description": "Tomates cerises fraîches"
+      },
+      {
+        "item_name": "Tomates",
+        "price": "$2.99",
+        "category": "vegetables",
+        "description": "Tomates rouges fraîches"
+      },
+      {
+        "item_name": "Concombre",
+        "price": "$2.99",
+        "category": "vegetables",
+        "description": "Concombre frais"
+      },
+      {
+        "item_name": "Mûres",
+        "price": "$4.99",
+        "category": "fruits",
+        "description": "Mûres fraîches"
+      },
+      {
+        "item_name": "Pastèque",
+        "price": "$5.99",
+        "category": "fruits",
+        "description": "Pastèque fraîche"
+      },
+      {
+        "item_name": "Chou-fleur",
+        "price": "$4.99",
+        "category": "vegetables",
+        "description": "Chou-fleur frais"
+      },
+      {
+        "item_name": "Carottes",
+        "price": "$3.99",
+        "category": "vegetables",
+        "description": "Carottes fraîches"
+      },
+      {
+        "item_name": "Laitue frisée",
+        "price": "$3.99",
+        "category": "vegetables",
+        "description": "Laitue frisée fraîche"
+      },
+      {
+        "item_name": "Melon",
+        "price": "$4.99",
+        "category": "fruits",
+        "description": "Melon frais"
+      },
+      {
+        "item_name": "Jus de cranberry",
+        "price": "$3.99",
+        "category": "fruits",
+        "description": "Jus de cranberry 100% pur"
+      }
+    ]
+  },
+  "page_03.png": {
+    "items": [
+      {
+        "item_name": "Organic Celery",
+        "price": "2.99",
+        "category": "vegetables",
+        "description": "Celeri biologique - Produit du Mexique - Organic celery - Product of Mexico"
+      },
+      {
+        "item_name": "Organic Green Zucchinis",
+        "price": "2.49 $/lb",
+        "category": "vegetables",
+        "description": "Courgettes vertes biologiques - Produit du Mexique - Organic green zucchinis - Product of Mexico"
+      },
+      {
+        "item_name": "Organic Red Mango",
+        "price": "3/5.00 or 1.67 Ch./Ed.",
+        "category": "fruits",
+        "description": "Mangue rouge biologique - Produit du Mexique - Organic red mango - Product of Mexico"
+      }
+    ]
+  },
+  "page_04.png": {
+    "items": [
+      {
+        "item_name": "Steak",
+        "price": "$21.99",
+        "category": "protein",
+        "description": "Fresh beef steak"
+      },
+      {
+        "item_name": "Beef Roast",
+        "price": "$6.49",
+        "category": "protein",
+        "description": "Fresh beef roast cuts"
+      },
+      {
+        "item_name": "Sliced Beef",
+        "price": "$4.99",
+        "category": "protein",
+        "description": "Sliced beef product"
+      },
+      {
+        "item_name": "Beef Ribs",
+        "price": "$12.99",
+        "category": "protein",
+        "description": "Beef rib cuts"
+      },
+      {
+        "item_name": "Ground Beef",
+        "price": "$10.99",
+        "category": "protein",
+        "description": "Ground beef product"
+      },
+      {
+        "item_name": "Chicken Wings",
+        "price": "$4.49",
+        "category": "protein",
+        "description": "Chicken wing pieces"
+      },
+      {
+        "item_name": "Beef Kebab",
+        "price": "$11.99",
+        "category": "protein",
+        "description": "Beef kebab skewers"
+      },
+      {
+        "item_name": "Chicken Kebab",
+        "price": "$12.99",
+        "category": "protein",
+        "description": "Chicken kebab skewers"
+      },
+      {
+        "item_name": "Premium Beef",
+        "price": "$27.99",
+        "category": "protein",
+        "description": "Premium beef cut"
+      },
+      {
+        "item_name": "Ricardo Ground Beef",
+        "price": "$11.49",
+        "category": "protein",
+        "description": "Ricardo brand ground beef"
+      },
+      {
+        "item_name": "Ricardo Beef",
+        "price": "$8.99",
+        "category": "protein",
+        "description": "Ricardo brand beef product"
+      }
+    ]
+  },
+  "page_05.png": {
+    "items": [
+      {
+        "item_name": "Viandes cuites et surgelées",
+        "price": "$7.99",
+        "category": "protein",
+        "description": "Cooked and frozen meats"
+      },
+      {
+        "item_name": "Poitrine de poulet",
+        "price": "$14.99",
+        "category": "protein",
+        "description": "Chicken breast"
+      },
+      {
+        "item_name": "Cuisses de poulet",
+        "price": "$13.49",
+        "category": "protein",
+        "description": "Chicken thighs"
+      },
+      {
+        "item_name": "Poitrines de poulet surgelées",
+        "price": "$8.49",
+        "category": "protein",
+        "description": "Frozen chicken breasts"
+      },
+      {
+        "item_name": "Rôti de boeuf",
+        "price": "$14.99",
+        "category": "protein",
+        "description": "Beef roast"
+      },
+      {
+        "item_name": "Salami",
+        "price": "$7.99",
+        "category": "protein",
+        "description": "Salami meat product"
+      },
+      {
+        "item_name": "Viande rouge",
+        "price": "$8.99",
+        "category": "protein",
+        "description": "Red meat"
+      },
+      {
+        "item_name": "Saucisses",
+        "price": "$7.49",
+        "category": "protein",
+        "description": "Sausages"
+      },
+      {
+        "item_name": "Salami tranché",
+        "price": "$8.99",
+        "category": "protein",
+        "description": "Sliced salami"
+      }
+    ]
+  },
+  "page_06.png": {
+    "items": [
+      {
+        "item_name": "Salmon",
+        "price": "14.99",
+        "category": "seafood",
+        "description": "Fresh salmon fillet"
+      },
+      {
+        "item_name": "Shrimp",
+        "price": "15.99",
+        "category": "seafood",
+        "description": "Fresh shrimp"
+      },
+      {
+        "item_name": "Smoked Sausage",
+        "price": "6.49",
+        "category": "protein",
+        "description": "Smoked meat sausage"
+      },
+      {
+        "item_name": "Ricardo Rice Bowl",
+        "price": "11.99",
+        "category": "whole_grains",
+        "description": "Rice based meal"
+      },
+      {
+        "item_name": "Sausage",
+        "price": "10.99",
+        "category": "protein",
+        "description": "Packaged sausage links"
+      },
+      {
+        "item_name": "Muesli Cereal",
+        "price": "5.99",
+        "category": "whole_grains",
+        "description": "Whole grain muesli"
+      },
+      {
+        "item_name": "Ready-to-Eat Meals",
+        "price": "9.99",
+        "category": "protein",
+        "description": "Prepared meal with protein"
+      },
+      {
+        "item_name": "Frozen Vegetables",
+        "price": "10.99",
+        "category": "vegetables",
+        "description": "Frozen vegetable mix"
+      },
+      {
+        "item_name": "Fish Fillets",
+        "price": "9.99",
+        "category": "seafood",
+        "description": "Frozen fish fillets"
+      }
+    ]
+  },
+  "page_07.png": {
+    "items": [
+      {
+        "item_name": "Bacon",
+        "price": "$3.19",
+        "category": "protein",
+        "description": "Sliced bacon"
+      },
+      {
+        "item_name": "Ham",
+        "price": "$2.29",
+        "category": "protein",
+        "description": "Sliced ham"
+      },
+      {
+        "item_name": "Chocolate Cake",
+        "price": "$3.49",
+        "category": "protein",
+        "description": "Chocolate cake 250ml"
+      }
+    ]
+  },
+  "page_12.png": {
+    "items": [
+      {
+        "item_name": "Compliments Chicken Breast",
+        "price": "$2.49",
+        "category": "protein",
+        "description": "100 mg sodium per serving"
+      },
+      {
+        "item_name": "Compliments Bacon",
+        "price": "$6.49",
+        "category": "protein",
+        "description": "50 mg sodium per serving"
+      },
+      {
+        "item_name": "Compliments Salad Mix",
+        "price": "$2.79",
+        "category": "vegetables",
+        "description": "50 mg sodium per serving"
+      }
+    ]
+  },
+  "page_14.png": {
+    "items": [
+      {
+        "item_name": "Primal Kitchen",
+        "price": "$7.49",
+        "category": "protein",
+        "description": "Protein products"
+      },
+      {
+        "item_name": "Heinz 100% Bio",
+        "price": "$8.49",
+        "category": "vegetables",
+        "description": "100% organic, no gluten"
+      },
+      {
+        "item_name": "Ko ou Ko Rien Sans Gluten",
+        "price": "$2.29",
+        "category": "whole_grains",
+        "description": "Gluten-free"
+      },
+      {
+        "item_name": "Prana",
+        "price": "$4.99",
+        "category": "protein",
+        "description": "Protein-rich products"
+      },
+      {
+        "item_name": "Rivière",
+        "price": "$5.79",
+        "category": "dairy",
+        "description": "Natural dairy product"
+      },
+      {
+        "item_name": "Evive",
+        "price": "$8.99",
+        "category": "dairy",
+        "description": "Plaisir sucré zéro culpabilité"
+      },
+      {
+        "item_name": "Terra",
+        "price": "$3.99",
+        "category": "vegetables",
+        "description": "100% organic vegetables"
+      }
+    ]
+  },
+  "page_15.png": {
+    "items": [
+      {
+        "item_name": "Bob's Red Mill",
+        "price": "$7.99",
+        "category": "whole_grains",
+        "description": "Whole grain cereal"
+      },
+      {
+        "item_name": "Nature's Path",
+        "price": "$7.79",
+        "category": "whole_grains",
+        "description": "Organic cereal"
+      },
+      {
+        "item_name": "PC Blue Menu",
+        "price": "$5.99",
+        "category": "whole_grains",
+        "description": "Healthy grain product"
+      },
+      {
+        "item_name": "Purely Fancy Organic",
+        "price": "$3.99",
+        "category": "whole_grains",
+        "description": "Organic grain product"
+      },
+      {
+        "item_name": "Biolinéo",
+        "price": "$5.49",
+        "category": "whole_grains",
+        "description": "Biological grain product"
+      },
+      {
+        "item_name": "Compliments Lentils",
+        "price": "$2.99",
+        "category": "legumes",
+        "description": "Canned lentils"
+      },
+      {
+        "item_name": "PC Organic Beans",
+        "price": "$7.99",
+        "category": "legumes",
+        "description": "Organic canned beans"
+      },
+      {
+        "item_name": "Aylmer",
+        "price": "$3.99",
+        "category": "vegetables",
+        "description": "Canned vegetables"
+      },
+      {
+        "item_name": "Daiya",
+        "price": "$4.49",
+        "category": "dairy",
+        "description": "Plant-based dairy alternative"
+      },
+      {
+        "item_name": "Compliments Tempeh",
+        "price": "$4.29",
+        "category": "protein",
+        "description": "Tempeh protein"
+      },
+      {
+        "item_name": "Compliments Olive Oil",
+        "price": "$2.99",
+        "category": "healthy_fats",
+        "description": "Olive oil"
+      },
+      {
+        "item_name": "PC Organic Extra Virgin Olive Oil",
+        "price": "$10.49",
+        "category": "healthy_fats",
+        "description": "Organic extra virgin olive oil"
+      },
+      {
+        "item_name": "TERRA Mate",
+        "price": "$2.79",
+        "category": "vegetables",
+        "description": "Vegetable snack"
+      },
+      {
+        "item_name": "Cérès",
+        "price": "$3.49",
+        "category": "fruits",
+        "description": "Fruit juice"
+      }
+    ]
+  },
+  "page_18.png": {
+    "items": [
+      {
+        "item_name": "Charlotte aux fraises",
+        "price": "$3.99",
+        "category": "dairy",
+        "description": "Strawberry Charlotte"
+      },
+      {
+        "item_name": "Fauzzi",
+        "price": "$3.99",
+        "category": "dairy",
+        "description": "Cream cheese product"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "page_00.png": {
+    "items": [
+      {
+        "item_name": "Côtes de dos de boeuf fraîches",
+        "price": "$5.75/lb",
+        "category": "protein",
+        "description": "Fresh beef short ribs"
+      },
+      {
+        "item_name": "Boeuf haché mi-maigre",
+        "price": "$4.99/lb",
+        "category": "protein",
+        "description": "Medium ground beef"
+      },
+      {
+        "item_name": "Poitrines de poulet frais",
+        "price": "$3.44/lb",
+        "category": "protein",
+        "description": "Fresh chicken breasts with skin"
+      },
+      {
+        "item_name": "Filets de porc",
+        "price": "$2.65/lb",
+        "category": "protein",
+        "description": "Pork fillets"
+      },
+      {
+        "item_name": "Oranges navel",
+        "price": "$2.43",
+        "category": "fruits",
+        "description": "Navel oranges"
+      },
+      {
+        "item_name": "Jus Oasis",
+        "price": "$1.12",
+        "category": "fruits",
+        "description": "Fruit juice"
+      },
+      {
+        "item_name": "Pommes Spartan",
+        "price": "$2.43",
+        "category": "fruits",
+        "description": "Spartan apples"
+      },
+      {
+        "item_name": "Melon",
+        "price": "$1.93",
+        "category": "fruits",
+        "description": "Fresh melon"
+      },
+      {
+        "item_name": "Laitue Iceberg",
+        "price": "$1.49",
+        "category": "vegetables",
+        "description": "Iceberg lettuce"
+      },
+      {
+        "item_name": "Chou-fleur",
+        "price": "$2.49",
+        "category": "vegetables",
+        "description": "Cauliflower"
+      },
+      {
+        "item_name": "Poivrons rouges, oranges et jaunes de serre",
+        "price": "$2.48/lb",
+        "category": "vegetables",
+        "description": "Fresh greenhouse red, orange and yellow peppers"
+      },
+      {
+        "item_name": "Crevettes sauvages d'Argentine",
+        "price": "$6.49",
+        "category": "seafood",
+        "description": "Wild Argentine shrimp"
+      }
+    ]
+  },
+  "page_01.png": {
+    "items": [
+      {
+        "item_name": "Bagels tranchés Selection",
+        "price": "$1.89",
+        "category": "whole_grains",
+        "description": "Sliced bagels"
+      },
+      {
+        "item_name": "Biscuits Selection l'Érable",
+        "price": "$1.24",
+        "category": "whole_grains",
+        "description": "Maple biscuits"
+      },
+      {
+        "item_name": "Crème sure Selection",
+        "price": "$1.14",
+        "category": "dairy",
+        "description": "Sour cream"
+      },
+      {
+        "item_name": "Croque Nature",
+        "price": "$2.74",
+        "category": "whole_grains",
+        "description": "Original recipe cereal"
+      },
+      {
+        "item_name": "Lactantia Originale",
+        "price": "$1.74",
+        "category": "dairy",
+        "description": "Original butter tartrade"
+      },
+      {
+        "item_name": "Paris Pâté",
+        "price": "$1.19",
+        "category": "protein",
+        "description": "Sandwich pâté"
+      },
+      {
+        "item_name": "Planters Noix de cajou entières",
+        "price": "$3.99",
+        "category": "healthy_fats",
+        "description": "Whole cashews"
+      },
+      {
+        "item_name": "Vivite boisson à saveur orange",
+        "price": "$1.37",
+        "category": "fruits",
+        "description": "Orange flavored beverage"
+      }
+    ]
+  },
+  "page_02.png": {
+    "items": [
+      {
+        "item_name": "Citrons",
+        "price": "49¢",
+        "category": "fruits",
+        "description": "Citrons au 113g"
+      },
+      {
+        "item_name": "Chou vert",
+        "price": "59¢",
+        "category": "vegetables",
+        "description": "Chou vert produit du Québec, Canada No 1"
+      },
+      {
+        "item_name": "Pommes délicieuses rouges ou Granny Smith",
+        "price": "1.44",
+        "category": "fruits",
+        "description": "Pommes délicieuses rouges ou Granny Smith"
+      },
+      {
+        "item_name": "Poires Bartlett",
+        "price": "1.44",
+        "category": "fruits",
+        "description": "Poires Bartlett ou poires Bosc"
+      },
+      {
+        "item_name": "Salade Dole",
+        "price": "2.24",
+        "category": "vegetables",
+        "description": "Salade Dole"
+      },
+      {
+        "item_name": "Oignons verts",
+        "price": "99¢",
+        "category": "vegetables",
+        "description": "Oignons verts"
+      },
+      {
+        "item_name": "Melon miel",
+        "price": "2.99",
+        "category": "fruits",
+        "description": "Melon miel"
+      },
+      {
+        "item_name": "Fines herbes fraîches",
+        "price": "99¢",
+        "category": "vegetables",
+        "description": "Fines herbes fraîches"
+      },
+      {
+        "item_name": "Rôti de surlonge de porc frais",
+        "price": "2.99",
+        "category": "protein",
+        "description": "Rôti de surlonge de porc frais"
+      },
+      {
+        "item_name": "Poulet haché extra maigre Rachel's",
+        "price": "3.99",
+        "category": "protein",
+        "description": "Poulet haché extra maigre Rachel's"
+      },
+      {
+        "item_name": "Lanières de poitrine de poulet irrésistible",
+        "price": "3.49",
+        "category": "protein",
+        "description": "Lanières de poitrine de poulet irrésistible"
+      },
+      {
+        "item_name": "Bologne Selection",
+        "price": "3.24",
+        "category": "protein",
+        "description": "Bologne Selection"
+      },
+      {
+        "item_name": "Boulettes de porc et boeuf",
+        "price": "6.49",
+        "category": "protein",
+        "description": "Boulettes de porc et boeuf"
+      },
+      {
+        "item_name": "Pâtés surgelés Swanson",
+        "price": "1.49",
+        "category": "protein",
+        "description": "Pâtés surgelés Swanson"
+      }
+    ]
+  },
+  "page_03.png": {
+    "items": [
+      {
+        "item_name": "Catelli Spaghettini",
+        "price": "1.74",
+        "category": "whole_grains",
+        "description": "pâtes alimentaires Catelli Spaghettini 375g"
+      },
+      {
+        "item_name": "Catelli Pasta",
+        "price": "1.74",
+        "category": "whole_grains",
+        "description": "Catelli pasta 375g"
+      },
+      {
+        "item_name": "Pois Chiches Organic",
+        "price": "0.99",
+        "category": "legumes",
+        "description": "légumineuses mieux-être biologique Pois Chiches"
+      },
+      {
+        "item_name": "Lait de Noix Cedar",
+        "price": "1.64",
+        "category": "healthy_fats",
+        "description": "lait de noix Cedar Lait de coco"
+      },
+      {
+        "item_name": "Vermicelle de Riz Hakka",
+        "price": "2.25",
+        "category": "whole_grains",
+        "description": "vermicelle de riz Hakka Rice Vermicelli"
+      },
+      {
+        "item_name": "Hilaire Désodorisante Fresh & Light",
+        "price": "6.99",
+        "category": "vegetables",
+        "description": "Hilère Désodorisante Fresh & Light"
+      }
+    ]
+  },
+  "page_06.png": {
+    "items": [
+      {
+        "item_name": "Cubes de boeuf bourguignon",
+        "price": "9.99/lb",
+        "category": "protein",
+        "description": "Beef stew meat"
+      },
+      {
+        "item_name": "Porc haché maigre",
+        "price": "3.99/lb",
+        "category": "protein",
+        "description": "Lean ground pork"
+      },
+      {
+        "item_name": "Poitrines de poulet frais Exceldor",
+        "price": "8.99/lb",
+        "category": "protein",
+        "description": "Fresh chicken breasts"
+      },
+      {
+        "item_name": "Soubakis de porc Marc Angelo",
+        "price": "12.99",
+        "category": "protein",
+        "description": "Pork skewers"
+      },
+      {
+        "item_name": "Filet de sole Atlantique",
+        "price": "9.99/lb",
+        "category": "seafood",
+        "description": "Atlantic sole fillet"
+      },
+      {
+        "item_name": "Saucisses Selection",
+        "price": "10$",
+        "category": "protein",
+        "description": "Selection sausages"
+      },
+      {
+        "item_name": "Fromage Boursin",
+        "price": "5.99",
+        "category": "dairy",
+        "description": "Boursin cheese with herbs"
+      },
+      {
+        "item_name": "Jambon fumé porté noir",
+        "price": "5.49",
+        "category": "protein",
+        "description": "Smoked black forest ham"
+      },
+      {
+        "item_name": "Prosciutto",
+        "price": "5.99",
+        "category": "protein",
+        "description": "Italian prosciutto"
+      },
+      {
+        "item_name": "Filets de poisson",
+        "price": "11.99",
+        "category": "seafood",
+        "description": "Fish fillets"
+      },
+      {
+        "item_name": "Fromage Fontaine Sante",
+        "price": "5.99",
+        "category": "dairy",
+        "description": "Fontaine Sante cheese"
+      }
+    ]
+  },
+  "page_07.png": {
+    "items": [
+      {
+        "item_name": "Häagen-Dazs friandises glacées",
+        "price": "$4.94",
+        "category": "dairy",
+        "description": "Vanilla almond, chocolate flavored frozen treats"
+      },
+      {
+        "item_name": "Maison Perrier",
+        "price": "$6.99",
+        "category": "healthy_fats",
+        "description": "Sparkling water, source of quality minerals"
+      }
+    ]
+  }
+}
