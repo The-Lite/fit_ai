@@ -18,3 +18,4 @@ class FlyerItem(Base):
     store_name: Mapped[str | None] = mapped_column(String(100), nullable=False)
     flyer_date_start: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, primary_key=True)
     flyer_date_end: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, primary_key=True)
+    description: Mapped[str] = mapped_column(String(500), nullable=False)

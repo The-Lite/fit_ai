@@ -1,3 +1,5 @@
+from termcolor import cprint
+
 from backend.app.db.tools.engine_pool import db 
 from backend.app.db.tools.db_manager import Database
 from backend.app.db.db_model.model import FlyerItem
@@ -14,18 +16,23 @@ def insert_data(db:Database,data:json,store_name:str):
     flyer_date_start = today - timedelta(days=days_since_thursday)
     flyer_date_end = flyer_date_start + timedelta(days=6)
     items = data.get("items", [])
-    if items:
-        item_name = items["item_name"]
-        price_text = items["price_text"]
-        price_value = items["price_value"]
-        category = items["category"]
-    item = FlyerItem(
-            item_name=item_name,
+    for item_data in items:
+        price_value = item_data["price"].replace("$", "").strip()
+        item = FlyerItem(
+            item_name=item_data["item_name"],
             price_value=Decimal(str(price_value)),
-            category=category,
-            store=store_name,
+            category=item_data["category"],
+            description=item_data["description"],
+            store_name=store_name,
             flyer_date_start=flyer_date_start,
             flyer_date_end=flyer_date_end,
         )
-    db_session.add(item)
+        cprint(f"Inserting item: {item.item_name}, price: {item.price_value}, category: {item.category}, description: {item.description}", "green")
+        db_session.add(item)
+    cprint(f"Committing {len(items)} items to the database for store: {store_name}", "blue")
     db_session.commit()
+
+if __name__ == "__main__":
+    with open("backend/data/data_test/flayers/provigo/json/result.json", "r") as f:
+        data = json.load(f)
+    insert_data(db, data, "PROVIGO")

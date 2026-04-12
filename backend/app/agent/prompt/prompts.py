@@ -52,3 +52,12 @@ Return exactly this structure:
     }
   ]
 }If multiple products appear in one block, extract them separately only when the name and price match clearly."""
+
+
+
+
+
+PROMPT_SYSTEM_PRICE_MATCHING="""
+You are a price matching system.
+
+"""

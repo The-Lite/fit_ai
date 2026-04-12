@@ -1,466 +1,436 @@
 {
-  "page_00.png": {
-    "items": [
-      {
-        "item_name": "Côtes levées de porc",
-        "price": "$2.88 LB",
-        "category": "protein",
-        "description": "Côtes levées longues de porc"
-      },
-      {
-        "item_name": "Poitrine de poulet",
-        "price": "$4.99 LB",
-        "category": "protein",
-        "description": "Poitrine de poulet désossée et sans peau"
-      },
-      {
-        "item_name": "Côtes de dos de porc BBQ",
-        "price": "$9.77",
-        "category": "protein",
-        "description": "Côtes de dos de porc barbecue"
-      },
-      {
-        "item_name": "Crevettes croustillantes",
-        "price": "$9",
-        "category": "seafood",
-        "description": "Crevettes croustillantes panées du Pacifique"
-      },
-      {
-        "item_name": "Saumon coho",
-        "price": "$18",
-        "category": "seafood",
-        "description": "Saumon coho filet nature de crevettes avec sauce"
-      },
-      {
-        "item_name": "Mûres ou framboises",
-        "price": "$2.50",
-        "category": "fruits",
-        "description": "Mûres ou framboises fraîches"
-      },
-      {
-        "item_name": "Mandarines Orri",
-        "price": "$5",
-        "category": "fruits",
-        "description": "Mandarines Orri mandarin"
-      },
-      {
-        "item_name": "Concombre anglais",
-        "price": "$1",
-        "category": "vegetables",
-        "description": "Concombre anglais du Canada"
-      },
-      {
-        "item_name": "Huile d'olive extra vierge",
-        "price": "$13",
-        "category": "healthy_fats",
-        "description": "Huile d'olive extra vierge"
-      }
-    ]
-  },
-  "page_01.png": {
-    "items": [
-      {
-        "item_name": "Starbucks Café Moulé",
-        "price": "25¢",
-        "category": "healthy_fats",
-        "description": "Ground coffee, available in K-cups"
-      },
-      {
-        "item_name": "Silk Boisson",
-        "price": "$3.75",
-        "category": "dairy",
-        "description": "Plant-based beverage alternative"
-      },
-      {
-        "item_name": "Heineke",
-        "price": "$19.99",
-        "category": "protein",
-        "description": "Beer beverage"
-      },
-      {
-        "item_name": "Corona",
-        "price": "$19.99",
-        "category": "protein",
-        "description": "Beer beverage"
-      }
-    ]
-  },
-  "page_03.png": {
-    "items": [
-      {
-        "item_name": "BAGUETTE",
-        "price": "1$50",
-        "category": "whole_grains",
-        "description": "Baguette - whole grain bread option"
-      },
-      {
-        "item_name": "PAINS TRANCHÉS",
-        "price": "6$",
-        "category": "whole_grains",
-        "description": "Sliced bread from the bakery"
-      },
-      {
-        "item_name": "GÂTEAUX QUATRE-QUARTS",
-        "price": "6$",
-        "category": "whole_grains",
-        "description": "Pound cakes - bakery selection"
-      },
-      {
-        "item_name": "MUFFINS MINI",
-        "price": "6$",
-        "category": "whole_grains",
-        "description": "Mini muffins selection"
-      },
-      {
-        "item_name": "PAINS OU PETITS PAINS",
-        "price": "3$50",
-        "category": "whole_grains",
-        "description": "Breads and small rolls"
-      },
-      {
-        "item_name": "BAGELS",
-        "price": "3$50",
-        "category": "whole_grains",
-        "description": "Bagels - various selections"
-      },
-      {
-        "item_name": "HUMMUS",
-        "price": "2/7$",
-        "category": "legumes",
-        "description": "Hummus - legume-based dip"
-      },
-      {
-        "item_name": "NAAN CRISPS",
-        "price": "7$",
-        "category": "whole_grains",
-        "description": "Naan crisps - baked bread chips"
-      },
-      {
-        "item_name": "GUACAMOLE",
-        "price": "7$",
-        "category": "healthy_fats",
-        "description": "Guacamole - avocado-based spread"
-      },
-      {
-        "item_name": "SALADES PRÉPARÉES",
-        "price": "5$",
-        "category": "vegetables",
-        "description": "Prepared salads - various vegetable selections"
-      },
-      {
-        "item_name": "JAMBON FUMÉ",
-        "price": "12$",
-        "category": "protein",
-        "description": "Smoked ham - light Montreal style"
-      },
-      {
-        "item_name": "CHARCUTERIES TRANCHÉES",
-        "price": "8$",
-        "category": "protein",
-        "description": "Sliced charcuterie and meat selections"
-      }
-    ]
-  },
-  "page_05.png": {
-    "items": [
-      {
-        "item_name": "Cheerios",
-        "price": "2/9$",
-        "category": "whole_grains",
-        "description": "Céréales enrichissantes à grains entiers, General Mills"
-      },
-      {
-        "item_name": "Triscuit Originaux",
-        "price": "4.25",
-        "category": "whole_grains",
-        "description": "Crackers originaux"
-      },
-      {
-        "item_name": "Milk 2Go",
-        "price": "5$",
-        "category": "dairy",
-        "description": "Lait 2% M.G., emballage de 6x200ml"
-      },
-      {
-        "item_name": "Starbucks Capsules de Café Vertuo",
-        "price": "12.99",
-        "category": "healthy_fats",
-        "description": "Capsules de café Vertuo Starbucks, Nespresso compatible"
-      },
-      {
-        "item_name": "Catelli Protein+ Pâtes",
-        "price": "2/6$",
-        "category": "legumes",
-        "description": "Pâtes protéinées Catelli Protein+"
-      }
-    ]
-  },
-  "page_06.png": {
-    "items": [
-      {
-        "item_name": "GO PURE Barres Grains",
-        "price": "1.88$",
-        "category": "whole_grains",
-        "description": "Barres grains"
-      },
-      {
-        "item_name": "GO PURE Barres Fruits et Noix",
-        "price": "1.88$",
-        "category": "fruits",
-        "description": "Barres fruits et noix"
-      },
-      {
-        "item_name": "PLANTERS Noix de Cajou Entières",
-        "price": "4$",
-        "category": "healthy_fats",
-        "description": "Noix de cajou entières"
-      },
-      {
-        "item_name": "Halal Chicken Sausages",
-        "price": "3$",
-        "category": "protein",
-        "description": "Halal chicken sausages"
-      }
-    ]
-  },
-  "page_07.png": {
-    "items": [
-      {
-        "item_name": "Bacon sans nom",
-        "price": "$8",
-        "category": "protein",
-        "description": "Bacon sans nom"
-      },
-      {
-        "item_name": "Brown rice",
-        "price": "$6",
-        "category": "whole_grains",
-        "description": "Riz brun brown rice"
-      },
-      {
-        "item_name": "White rice",
-        "price": "$6",
-        "category": "whole_grains",
-        "description": "Riz blanc white rice"
-      },
-      {
-        "item_name": "Apples sans nom",
-        "price": "$5",
-        "category": "fruits",
-        "description": "Sac de 3 lb bag of apples"
-      },
-      {
-        "item_name": "Tomatoes naturally imperfect",
-        "price": "$6",
-        "category": "vegetables",
-        "description": "Tomates naturellement imparfaites sans nom naturally imperfect tomatoes"
-      },
-      {
-        "item_name": "Limes naturally imperfect",
-        "price": "$6",
-        "category": "fruits",
-        "description": "Limes naturellement imparfaites sans nom naturally imperfect limes"
-      },
-      {
-        "item_name": "Vegetables sans nom",
-        "price": "$1.50",
-        "category": "vegetables",
-        "description": "Legumes sans nom mixed vegetables"
-      },
-      {
-        "item_name": "Vinaigrette sans nom",
-        "price": "2/$6",
-        "category": "healthy_fats",
-        "description": "Vinaigrette sans nom dressing"
-      },
-      {
-        "item_name": "Unsalted butter",
-        "price": "$5.99",
-        "category": "dairy",
-        "description": "Beurre sans nom unsalted butter beurre non salé"
-      },
-      {
-        "item_name": "Green peas",
-        "price": "$3",
-        "category": "vegetables",
-        "description": "Legumes sans nom green peas petits pois"
-      },
-      {
-        "item_name": "Salsa sans nom",
-        "price": "$3",
-        "category": "vegetables",
-        "description": "Salsa sans nom"
-      },
-      {
-        "item_name": "Spices sans nom",
-        "price": "$3.50",
-        "category": "vegetables",
-        "description": "Epices sans nom spice blends"
-      },
-      {
-        "item_name": "All-purpose flour",
-        "price": "$6",
-        "category": "whole_grains",
-        "description": "Farine sans nom all-purpose flour"
-      },
-      {
-        "item_name": "Cereal whole grains",
-        "price": "$3",
-        "category": "whole_grains",
-        "description": "Cereal grains entiers 100% whole grains"
-      },
-      {
-        "item_name": "Dark chocolate",
-        "price": "2/$3.50",
-        "category": "healthy_fats",
-        "description": "Dark chocolate sans nom"
-      },
-      {
-        "item_name": "Melange de panache",
-        "price": "$3",
-        "category": "vegetables",
-        "description": "Melange a crepes old-fashioned pancake mix"
-      },
-      {
-        "item_name": "Original cereal",
-        "price": "2/$6",
-        "category": "whole_grains",
-        "description": "Melange de panache original cereal"
-      }
-    ]
-  },
-  "page_08.png": {
-    "items": [
-      {
-        "item_name": "Danone Yogurt",
-        "price": "4$",
-        "category": "dairy",
-        "description": "Yogurt product, pack of 6"
-      },
-      {
-        "item_name": "Catelli Pasta",
-        "price": "2/5$",
-        "category": "whole_grains",
-        "description": "Pasta, whole grain options available"
-      },
-      {
-        "item_name": "KP Crackers",
-        "price": "3/9$",
-        "category": "whole_grains",
-        "description": "Crackers, multiple varieties"
-      },
-      {
-        "item_name": "Dairy Milk Chocolate",
-        "price": "2/6$",
-        "category": "dairy",
-        "description": "Dairy milk chocolate bars"
-      },
-      {
-        "item_name": "Dairy Milk",
-        "price": "3.99",
-        "category": "dairy",
-        "description": "Dairy milk chocolate product"
-      },
-      {
-        "item_name": "Ben & Jerry's Ice Cream",
-        "price": "5$",
-        "category": "dairy",
-        "description": "Ice cream product, various flavors"
-      }
-    ]
-  },
-  "page_09.png": {
-    "items": [
-      {
-        "item_name": "Oïkos Pro",
-        "price": "2/7$",
-        "category": "dairy",
-        "description": "Yogurt with protein"
-      },
-      {
-        "item_name": "Oïkos 19g Protéines",
-        "price": "8/79$",
-        "category": "dairy",
-        "description": "High protein yogurt"
-      },
-      {
-        "item_name": "Oïkos",
-        "price": "3/12$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "Activia",
-        "price": "6/99$",
-        "category": "dairy",
-        "description": "Digestive health yogurt with over 35 years of expertise"
-      },
-      {
-        "item_name": "Activia Expert",
-        "price": "4/7$",
-        "category": "dairy",
-        "description": "Digestive health yogurt"
-      },
-      {
-        "item_name": "Activia",
-        "price": "7$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "Activia",
-        "price": "5/69$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "Stök Cold Brew Coffee Café",
-        "price": "7$",
-        "category": "healthy_fats",
-        "description": "Cold brew coffee beverage"
-      },
-      {
-        "item_name": "iogo",
-        "price": "9$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "iogo",
-        "price": "10$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "iogo",
-        "price": "4/50$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "iogo nano",
-        "price": "4/50$",
-        "category": "dairy",
-        "description": "Creamy yogurt"
-      },
-      {
-        "item_name": "iogo nano",
-        "price": "2/9$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "iogo nano",
-        "price": "4/99$",
-        "category": "dairy",
-        "description": "Yogurt"
-      },
-      {
-        "item_name": "Siggi's",
-        "price": "8/49$",
-        "category": "dairy",
-        "description": "Yogurt"
-      }
-    ]
-  }
+  "items": [
+    {
+      "item_name": "Côtes levées de porc",
+      "price": "$2.88",
+      "category": "protein",
+      "description": "Côtes levées longues de porc"
+    },
+    {
+      "item_name": "Poitrine de poulet",
+      "price": "$4.99",
+      "category": "protein",
+      "description": "Poitrine de poulet désossée et sans peau"
+    },
+    {
+      "item_name": "Côtes de dos de porc BBQ",
+      "price": "$9.77",
+      "category": "protein",
+      "description": "Côtes de dos de porc barbecue"
+    },
+    {
+      "item_name": "Crevettes croustillantes",
+      "price": "$9",
+      "category": "seafood",
+      "description": "Crevettes croustillantes panées du Pacifique"
+    },
+    {
+      "item_name": "Saumon coho",
+      "price": "$18",
+      "category": "seafood",
+      "description": "Saumon coho filet nature de crevettes avec sauce"
+    },
+    {
+      "item_name": "Mûres ou framboises",
+      "price": "$2.50",
+      "category": "fruits",
+      "description": "Mûres ou framboises fraîches"
+    },
+    {
+      "item_name": "Mandarines Orri",
+      "price": "$5",
+      "category": "fruits",
+      "description": "Mandarines Orri mandarin"
+    },
+    {
+      "item_name": "Concombre anglais",
+      "price": "$1",
+      "category": "vegetables",
+      "description": "Concombre anglais du Canada"
+    },
+    {
+      "item_name": "Huile d'olive extra vierge",
+      "price": "$13",
+      "category": "healthy_fats",
+      "description": "Huile d'olive extra vierge"
+    },
+    {
+      "item_name": "Starbucks Café Moulé",
+      "price": "$25",
+      "category": "healthy_fats",
+      "description": "Ground coffee, available in K-cups"
+    },
+    {
+      "item_name": "Silk Boisson",
+      "price": "$3.75",
+      "category": "dairy",
+      "description": "Plant-based beverage alternative"
+    },
+    {
+      "item_name": "Heineke",
+      "price": "$19.99",
+      "category": "protein",
+      "description": "Beer beverage"
+    },
+    {
+      "item_name": "Corona",
+      "price": "$19.99",
+      "category": "protein",
+      "description": "Beer beverage"
+    },
+    {
+      "item_name": "BAGUETTE",
+      "price": "$1.50",
+      "category": "whole_grains",
+      "description": "Baguette - whole grain bread option"
+    },
+    {
+      "item_name": "PAINS TRANCHÉS",
+      "price": "$6.00",
+      "category": "whole_grains",
+      "description": "Sliced bread from the bakery"
+    },
+    {
+      "item_name": "GÂTEAUX QUATRE-QUARTS",
+      "price": "$6.00",
+      "category": "whole_grains",
+      "description": "Pound cakes - bakery selection"
+    },
+    {
+      "item_name": "MUFFINS MINI",
+      "price": "6$",
+      "category": "whole_grains",
+      "description": "Mini muffins selection"
+    },
+    {
+      "item_name": "PAINS OU PETITS PAINS",
+      "price": "$3.50",
+      "category": "whole_grains",
+      "description": "Breads and small rolls"
+    },
+    {
+      "item_name": "BAGELS",
+      "price": "$3.50",
+      "category": "whole_grains",
+      "description": "Bagels - various selections"
+    },
+    {
+      "item_name": "HUMMUS",
+      "price": "$2.75",
+      "category": "legumes",
+      "description": "Hummus - legume-based dip"
+    },
+    {
+      "item_name": "NAAN CRISPS",
+      "price": "$7.00",
+      "category": "whole_grains",
+      "description": "Naan crisps - baked bread chips"
+    },
+    {
+      "item_name": "GUACAMOLE",
+      "price": "$7.00",
+      "category": "healthy_fats",
+      "description": "Guacamole - avocado-based spread"
+    },
+    {
+      "item_name": "SALADES PRÉPARÉES",
+      "price": "$5.00",
+      "category": "vegetables",
+      "description": "Prepared salads - various vegetable selections"
+    },
+    {
+      "item_name": "JAMBON FUMÉ",
+      "price": "$12.00",
+      "category": "protein",
+      "description": "Smoked ham - light Montreal style"
+    },
+    {
+      "item_name": "CHARCUTERIES TRANCHÉES",
+      "price": "$8.00",
+      "category": "protein",
+      "description": "Sliced charcuterie and meat selections"
+    },
+    {
+      "item_name": "Cheerios",
+      "price": "$2.99",
+      "category": "whole_grains",
+      "description": "Céréales enrichissantes à grains entiers, General Mills"
+    },
+    {
+      "item_name": "Triscuit Originaux",
+      "price": "$4.25",
+      "category": "whole_grains",
+      "description": "Crackers originaux"
+    },
+    {
+      "item_name": "Milk 2Go",
+      "price": "$5.00",
+      "category": "dairy",
+      "description": "Lait 2% M.G., emballage de 6x200ml"
+    },
+    {
+      "item_name": "Starbucks Capsules de Café Vertuo",
+      "price": "$12.99",
+      "category": "healthy_fats",
+      "description": "Capsules de café Vertuo Starbucks, Nespresso compatible"
+    },
+    {
+      "item_name": "Catelli Protein+ Pâtes",
+      "price": "$2.99",
+      "category": "legumes",
+      "description": "Pâtes protéinées Catelli Protein+"
+    },
+    {
+      "item_name": "GO PURE Barres Grains",
+      "price": "$1.88",
+      "category": "whole_grains",
+      "description": "Barres grains"
+    },
+    {
+      "item_name": "GO PURE Barres Fruits et Noix",
+      "price": "$1.88",
+      "category": "fruits",
+      "description": "Barres fruits et noix"
+    },
+    {
+      "item_name": "PLANTERS Noix de Cajou Entières",
+      "price": "$4.00",
+      "category": "healthy_fats",
+      "description": "Noix de cajou entières"
+    },
+    {
+      "item_name": "Halal Chicken Sausages",
+      "price": "$3.00",
+      "category": "protein",
+      "description": "Halal chicken sausages"
+    },
+    {
+      "item_name": "Bacon sans nom",
+      "price": "$8",
+      "category": "protein",
+      "description": "Bacon sans nom"
+    },
+    {
+      "item_name": "Brown rice",
+      "price": "$6.00",
+      "category": "whole_grains",
+      "description": "Riz brun brown rice"
+    },
+    {
+      "item_name": "White rice",
+      "price": "$6",
+      "category": "whole_grains",
+      "description": "Riz blanc white rice"
+    },
+    {
+      "item_name": "Apples sans nom",
+      "price": "$5",
+      "category": "fruits",
+      "description": "Sac de 3 lb bag of apples"
+    },
+    {
+      "item_name": "Tomatoes naturally imperfect",
+      "price": "$6",
+      "category": "vegetables",
+      "description": "Tomates naturellement imparfaites sans nom naturally imperfect tomatoes"
+    },
+    {
+      "item_name": "Limes naturally imperfect",
+      "price": "$6",
+      "category": "fruits",
+      "description": "Limes naturellement imparfaites sans nom naturally imperfect limes"
+    },
+    {
+      "item_name": "Vegetables sans nom",
+      "price": "$1.50",
+      "category": "vegetables",
+      "description": "Legumes sans nom mixed vegetables"
+    },
+    {
+      "item_name": "Vinaigrette sans nom",
+      "price": "$2.60",
+      "category": "healthy_fats",
+      "description": "Vinaigrette sans nom dressing"
+    },
+    {
+      "item_name": "Unsalted butter",
+      "price": "$5.99",
+      "category": "dairy",
+      "description": "Beurre sans nom unsalted butter beurre non salé"
+    },
+    {
+      "item_name": "Green peas",
+      "price": "$3",
+      "category": "vegetables",
+      "description": "Legumes sans nom green peas petits pois"
+    },
+    {
+      "item_name": "Salsa sans nom",
+      "price": "$3",
+      "category": "vegetables",
+      "description": "Salsa sans nom"
+    },
+    {
+      "item_name": "Spices sans nom",
+      "price": "$3.50",
+      "category": "vegetables",
+      "description": "Epices sans nom spice blends"
+    },
+    {
+      "item_name": "All-purpose flour",
+      "price": "$6",
+      "category": "whole_grains",
+      "description": "Farine sans nom all-purpose flour"
+    },
+    {
+      "item_name": "Cereal whole grains",
+      "price": "$3",
+      "category": "whole_grains",
+      "description": "Cereal grains entiers 100% whole grains"
+    },
+    {
+      "item_name": "Dark chocolate",
+      "price": "$1.50",
+      "category": "healthy_fats",
+      "description": "Dark chocolate sans nom"
+    },
+    {
+      "item_name": "Melange de panache",
+      "price": "$3",
+      "category": "vegetables",
+      "description": "Melange a crepes old-fashioned pancake mix"
+    },
+    {
+      "item_name": "Original cereal",
+      "price": "2.6$",
+      "category": "whole_grains",
+      "description": "Melange de panache original cereal"
+    },
+    {
+      "item_name": "Danone Yogurt",
+      "price": "4$",
+      "category": "dairy",
+      "description": "Yogurt product, pack of 6"
+    },
+    {
+      "item_name": "Catelli Pasta",
+      "price": "2.5$",
+      "category": "whole_grains",
+      "description": "Pasta, whole grain options available"
+    },
+    {
+      "item_name": "KP Crackers",
+      "price": "3.99$",
+      "category": "whole_grains",
+      "description": "Crackers, multiple varieties"
+    },
+    {
+      "item_name": "Dairy Milk Chocolate",
+      "price": "2.60$",
+      "category": "dairy",
+      "description": "Dairy milk chocolate bars"
+    },
+    {
+      "item_name": "Dairy Milk",
+      "price": "3.99",
+      "category": "dairy",
+      "description": "Dairy milk chocolate product"
+    },
+    {
+      "item_name": "Ben & Jerry's Ice Cream",
+      "price": "5$",
+      "category": "dairy",
+      "description": "Ice cream product, various flavors"
+    },
+    {
+      "item_name": "Oïkos Pro",
+      "price": "$2.70",
+      "category": "dairy",
+      "description": "Yogurt with protein"
+    },
+    {
+      "item_name": "Oïkos 19g Protéines",
+      "price": "$8.79",
+      "category": "dairy",
+      "description": "High protein yogurt"
+    },
+    {
+      "item_name": "Oïkos",
+      "price": "$3.12",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "Activia",
+      "price": "$6.99",
+      "category": "dairy",
+      "description": "Digestive health yogurt with over 35 years of expertise"
+    },
+    {
+      "item_name": "Activia Expert",
+      "price": "$4.70",
+      "category": "dairy",
+      "description": "Digestive health yogurt"
+    },
+    {
+      "item_name": "Activia",
+      "price": "$7.00",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "Activia",
+      "price": "$5.69",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "Stök Cold Brew Coffee Café",
+      "price": "$7.00",
+      "category": "healthy_fats",
+      "description": "Cold brew coffee beverage"
+    },
+    {
+      "item_name": "iogo",
+      "price": "$9.00",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "iogo",
+      "price": "$10.00",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "iogo",
+      "price": "$4.50",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "iogo nano",
+      "price": "$4.50",
+      "category": "dairy",
+      "description": "Creamy yogurt"
+    },
+    {
+      "item_name": "iogo nano",
+      "price": "$2.90",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "iogo nano",
+      "price": "$4.99",
+      "category": "dairy",
+      "description": "Yogurt"
+    },
+    {
+      "item_name": "Siggi's",
+      "price": "$8.79",
+      "category": "dairy",
+      "description": "Yogurt"
+    }
+  ]
 }
