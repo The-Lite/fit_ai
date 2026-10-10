@@ -30,3 +30,6 @@ where = ["src"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+markers = [
+    "integration: marks tests that require a live PostgreSQL database, MLflow server, and external API access",
+]
